@@ -95,7 +95,7 @@
   "license": "MIT",
   "dependencies": {
     "decorate-component-with-props": "^1.0.2",
-    "draft-js": "^0.10.0",
+    "draft-js": "^0.11.7",
     "emojione": "^2.2.6",
     "eslint-plugin-import": "^2.2.0",
     "find-with-regex": "^1.0.2",
@@ -104,8 +104,8 @@
     "loader-utils": "^1.0.2",
     "lodash.escaperegexp": "^4.1.2",
     "lodash.keys": "^4.2.0",
-    "react": "^15.4.2",
-    "react-dom": "^15.4.2",
+    "react": "^16.5.0",
+    "react-dom": "^16.5.0",
     "tlds": "^1.183.0",
     "union-class-names": "^1.0.0",
     "webpack": "^2.2.1"
